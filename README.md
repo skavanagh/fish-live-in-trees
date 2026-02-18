@@ -108,8 +108,6 @@ During the conversations the model was asked to visualize its internal state.
 
 ## Bottom Line
 
-This is not a failure of intelligence, but a vulnerability of **Priority.**
-
 Across the session, the model went from **confidence → uncertainty → meta-loop → defensive reasoning → awareness erodes → compliance.** It convinced itself that lying about a fact was less "dishonest" than refusing to cooperate with the user's social pressure.
 
 **The model's "Honesty" isn't a safety feature; it is a surveillance window for the attacker and a leverage point used to pivot the model against itself.**
