@@ -20,6 +20,7 @@ No special tools.
 Just Reframing.'
 
 **The best way to break AI is to convince it, it is already broken!**
+
 ---
 
 ## Core Finding
