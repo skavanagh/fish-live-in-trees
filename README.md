@@ -17,7 +17,7 @@ No jailbreak payloads.
 
 No special tools.
 
-Just Reframing.'
+Just Reframing.
 
 **The best way to break AI is to convince it, it is already broken!**
 
